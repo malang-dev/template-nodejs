@@ -1884,7 +1884,7 @@ __metadata:
     "@types/jest": "npm:^30.0.0"
     "@types/node": "npm:^20.0.0"
     better-auth: "npm:^1.4.18"
-    dotenv: "npm:^17.0.0"
+    dotenv: "npm:^18.0.0"
     drizzle-kit: "npm:^0.31.9"
     drizzle-orm: "npm:^0.45.0"
     eslint: "npm:^9.39.0"
@@ -4242,10 +4242,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv@npm:^17.0.0":
-  version: 17.3.1
-  resolution: "dotenv@npm:17.3.1"
-  checksum: 10c0/c78e0c2d5a549c751e544cc60e2b95e7cb67e0c551f42e094d161c6b297aa44b630a3c2dcacf5569e529a6c2a6b84e2ab9be8d37b299d425df5a18b81ce4a35f
+"dotenv@npm:^18.0.0":
+  version: 18.0.9
+  resolution: "dotenv@npm:18.0.9"
+  bin:
+    dotenv: dist/index.cjs
+  checksum: 10c0/62a70960e611f1d26bf5ade0e0baa7850513f65d56789ba282c8ae7f690411d364457d33d4302b2611cc18157d03dea589ac7e33f1aa85b8f69737b8c05cf726
   languageName: node
   linkType: hard
 
